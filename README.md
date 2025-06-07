@@ -55,7 +55,8 @@ Improved UX with layout design, slicers, and responsive visuals
 
 
 screenshot :-
-![image](https://github.com/user-attachments/assets/db21fde7-ce87-4f8d-af45-96e0e00739a8)
+![image](https://github.com/user-attachments/assets/01d48fd2-874e-4018-a8cb-e1b6606c85e8)
+
 
 
 
