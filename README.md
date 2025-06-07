@@ -53,3 +53,10 @@ Improved UX with layout design, slicers, and responsive visuals
 
 🎁 Targeted promotions create significant short-term sales spikes
 
+
+screenshot :-
+![image](https://github.com/user-attachments/assets/db21fde7-ce87-4f8d-af45-96e0e00739a8)
+
+
+
+
